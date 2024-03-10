@@ -19,7 +19,7 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,java,mysql" /><br>
 </div>
 
