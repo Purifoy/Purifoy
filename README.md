@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **My personal webpage**
  
- 🌱 I’m currently learning **D3.js, AWS**
+ 🌱 I’m currently learning **AWS**
  
 </div>
 <hr/>
