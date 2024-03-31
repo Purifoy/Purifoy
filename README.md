@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Currency Converter**
+ 🔭 I’m currently working on **My personal webpage**
  
  🌱 I’m currently learning **D3.js, AWS**
  
