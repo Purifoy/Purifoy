@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Personal Website**
  
- 🌱 I’m currently learning ****
+ 🌱 I’m currently learning **AWS**
  
 </div>
 <hr/>
