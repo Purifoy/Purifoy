@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **My Personal Profile**
  
- 🌱 I’m currently learning **AWS Certification**
+ 🌱 I’m currently learning **AWS Cert**
  
 </div>
 <hr/>
