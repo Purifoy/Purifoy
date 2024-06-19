@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Banking App**
  
- 🌱 I’m currently learning **AWS Cloud Cert**
+ 🌱 I’m currently learning **AWS Cert**
  
 </div>
 <hr/>
