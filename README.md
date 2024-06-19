@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Personal Portfolio**
+ 🔭 I’m currently working on **Banking App**
  
  🌱 I’m currently learning **AWS Cloud Cert**
  
